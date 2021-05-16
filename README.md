@@ -6,20 +6,9 @@
 
 ## Demo
 
-<style>
-  div {
-    display: flex;
-    height: 600px;
-    width: 100%
-  }
-  img {
-    margin: 20px;
-  }
-</style>
-
 <div>
-  <img src='src/assets/Plants.jpg' />
-  <img src='src/assets/PlantDetail.jpg' />
+  <img src='src/assets/Plants.jpg' height='700px' />
+  <img src='src/assets/PlantDetail.jpg' height='700px' />
 </div>
 
 ## Usage
